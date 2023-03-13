@@ -19,7 +19,7 @@ Sprout is a collaborative, creative platform that builds upon that insight.
 # Root values
 
 ## Our differences - our potential
-Imagine working with people exactly like yourself. The same interests, the same strengths and weaknesses, the same background and life situation. Needles to say - those work days would get old quick. That is not what Sprout is about. Differences and diversity means potential.
+Imagine working with people exactly like yourself. The same interests, the same strengths and weaknesses, the same background and life situation. Needless to say - those work days would get old quick. That is not what Sprout is about. Differences and diversity means potential.
 
 Sprout is about leveraging passions and interests of different people, ideas and organisations into something great.   
 
