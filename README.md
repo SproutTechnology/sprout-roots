@@ -8,15 +8,20 @@ Welcome to our universe. A growing ecosystem of collaborating people, ideas and 
 
 We've all been in the business for a few years. Colleagues have come and gone, projects and companies have changed in a world where technology is ever evolving. We've stayed on that path, with its ups and downs, following our passion for software.
 
-Somewhere along that path we've met people that made a mark. People that inspired and challenged us, made us better or simply put a smile on our faces. People that are on our wavelength or expand our perspectives. People that bring out the very best version of ourselves.
+Somewhere along that path we met people that made a mark. People that inspired and challenged us, made us better or simply put a smile on our face. People on our wavelength or that expand our perspectives. People that bring out the very best version of ourselves.
 
 After a while, we've realized _it's all about them_.
 Those people.
 Us.
 
-Sprout is a collaborative, creative platform built with that in mind.
+Sprout is a collaborative, creative platform that builds upon that insight.
 
 # Root values
+
+## Our differences - our potential
+Imagine working with people exactly like yourself. The same interests, the same strengths and weaknessess, the same background and life situation. Needles to say - those work days would get old quick. That is not what Sprout is about. Differences and diversity means potential.
+
+Sprout is about leveraging passions and interests of different people, ideas and organisations into something great.   
 
 ## Life balance - the Sprout way
 
@@ -37,13 +42,14 @@ And if you hire a whole Sprout team - watch that energy 💥
 
 ## Hybrid, remote or office is all in the past
 
-We don't spend time labelling your style of work. At Sprout we know that no one knows your best format like you do. That thing that makes you
+We don't spend time labelling your style of work. Call it what you may, the surroundings where you get you best work done is up to you. Maybe you like the "buzz" of an office, creative chats around the coffee-machine or whiteboard sessions with sticky notes. Maybe you thrive between the four walls of your home, your garden or a nearby park? Maybe you want a little bit of both. 
+
+Actually, we don't think the *where* is that important. We are all sensible people. Lets focus on *what* we do instead.
 
 ## We are Sprout - Sprout is us.
-
-We've built Sprout together, because we wanted to. There’s no "company" - there is only us.
-We don’t blame anyone else for how things are. We’re it. It’s up to us.
-If something needs fixing - fix it.
+We've built Sprout together, because we want to do this together. A shared journey with a shared responsibility. 
+What we do and what Sprout will grow into - is up to us. That means taking ownership, speaking up and leading by example.
+The initiative is yours to take. If something needs fixing - fix it. If something could be done better - show us how. 
 If something is awesome - say it, celebrate it!
 
 ## We grow slow
