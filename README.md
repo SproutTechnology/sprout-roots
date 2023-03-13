@@ -19,13 +19,13 @@ Sprout is a collaborative, creative platform that builds upon that insight.
 # Root values
 
 ## Our differences - our potential
-Imagine working with people exactly like yourself. The same interests, the same strengths and weaknessess, the same background and life situation. Needles to say - those work days would get old quick. That is not what Sprout is about. Differences and diversity means potential.
+Imagine working with people exactly like yourself. The same interests, the same strengths and weaknesses, the same background and life situation. Needles to say - those work days would get old quick. That is not what Sprout is about. Differences and diversity means potential.
 
 Sprout is about leveraging passions and interests of different people, ideas and organisations into something great.   
 
 ## Life balance - the Sprout way
 
-Life balance is more than a gym card. It means having the time and possibility follow your dreams & passions, with the people you love. We allow for highs and lows and take turns at the helm.
+Life balance is more than a gym card. It means having the time and possibility to follow your dreams and passions, with the people you love. We allow for highs and lows and take turns at the helm.
 
 We want you to spend time with your loved ones. We do too!
 We’ll invite them along on many of our events so that we expand our relationships. We know that you have them top-of-mind, so do we.
@@ -47,6 +47,7 @@ We don't spend time labelling your style of work. Call it what you may, the surr
 Actually, we don't think the *where* is that important. We are all sensible people. Lets focus on *what* we do instead.
 
 ## We are Sprout - Sprout is us.
+
 We've built Sprout together, because we want to do this together. A shared journey with a shared responsibility. 
 What we do and what Sprout will grow into - is up to us. That means taking ownership, speaking up and leading by example.
 The initiative is yours to take. If something needs fixing - fix it. If something could be done better - show us how. 
@@ -54,7 +55,7 @@ If something is awesome - say it, celebrate it!
 
 ## We grow slow
 
-Sprout is founded by a group of people that wants to work together. It's a tight group, where we trust and appreciate eachother. We want to grow - but slowly. We're careful about how we expand and in what direction we choose to grow.
+Sprout is founded by a group of people that wants to work together. It's a tight group, where we trust and appreciate each other. We want to grow - but slowly. We're careful about how we expand and in what direction we choose to grow.
 That being said - when we find that soul-mate-superstar,
 we’ll give them the best welcome they’ve ever seen!
 
