@@ -27,8 +27,8 @@ Sprout is about leveraging passions and interests of different people, ideas and
 
 Life balance is more than a gym card. It means having the time and possibility to follow your dreams and passions, with the people you love. We allow for highs and lows and take turns at the helm.
 
-We want you to spend time with your loved ones. We do too!
-We’ll invite them along on many of our events so that we expand our relationships. We know that you have them top-of-mind, so do we.
+We want you to spend time with your loved ones. They're important to us to!
+In fact, we’ll invite them to many of our events so that we expand our relationships. We know that you have them top-of-mind, so do we.
 
 ## No high-horses
 
