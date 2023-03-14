@@ -1,6 +1,7 @@
-# sprout-roots
 
-**We are Sprout.**
+<img src="sprout-logo.svg" width="60%">
+
+# We are Sprout.
 
 Welcome to our universe. A growing ecosystem of collaborating people, ideas and initiatives.
 
