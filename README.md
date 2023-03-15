@@ -1,9 +1,10 @@
-
 <img src="sprout-logo.svg" width="60%">
 
 # We are Sprout.
 
-Welcome to our universe. A growing ecosystem of collaborating people, ideas and initiatives.
+Welcome to our universe.
+
+A growing ecosystem of collaborating people, ideas and initiatives.
 
 # How we came to be
 
@@ -20,9 +21,20 @@ Sprout is a collaborative, creative platform that builds upon that insight.
 # Root values
 
 ## Our differences - our potential
+
 Imagine working with people exactly like yourself. The same interests, the same strengths and weaknesses, the same background and life situation. Needless to say - those work days would get old quick. That is not what Sprout is about. Differences and diversity means potential.
 
-Sprout is about leveraging passions and interests of different people, ideas and organisations into something great.   
+Sprout is about leveraging passions and interests of different people, ideas and organisations into something great.
+
+## Future in the shape of you
+
+At Sprout, we value your ideas, initiatives and dreams. We want you to dream, dream **BIG**! We'll help you, in any way that we can, to achieve those goals and aspirations.
+
+For you as an employeee, that means having the freedom to try new things, to explore and to be creative. It means having the final say in how you spend your days. It's up to you.
+
+Maybe you have an idea for _that_ perfect app, want to host a hackathon for _that_ good cause or maybe you dream about being involved in _that_ project. At Sprout - the future is yours to shape. We want to be part of your journey.
+
+For you as a partner, it means having the full power of Sprout at your side, in business ventures, projects or product development efforts. With an experienced set of professionals to back you, no dream is to big! When we join forces, anything is possible.
 
 ## Life balance - the Sprout way
 
@@ -38,28 +50,31 @@ With great knowledge and experience comes great responsibility. For us, it means
 ## Hitting the ground running
 
 Hiring us is not like hiring anyone else.
-We hit the ground running and make an impact from day one. We bring energy, positivity and professionalism to any project.
+We hit the ground running and make an impact from day one.
+
+We bring energy, positivity and professionalism to any project.
 And if you hire a whole Sprout team - watch that energy 💥
 
 ## Hybrid, remote or office is all in the past
 
-We don't spend time labelling your style of work. Call it what you may, the surroundings where you get you best work done is up to you. Maybe you like the "buzz" of an office, creative chats around the coffee-machine or whiteboard sessions with sticky notes. Maybe you thrive between the four walls of your home, your garden or a nearby park? Maybe you want a little bit of both. 
+We don't spend time labelling your style of work. Call it what you may, the surroundings where you get you best work done is up to you. Maybe you like the "buzz" of an office, creative chats around the coffee-machine or whiteboard sessions with sticky notes. Maybe you thrive between the four walls of your home, your garden or a nearby park? Maybe you want a little bit of both.
 
-Actually, we don't think the *where* is that important. We are all sensible people. Lets focus on *what* we do instead.
+Actually, we don't think the _where_ is that important. We are all sensible people. Lets focus on _what_ we do instead.
 
 ## We are Sprout - Sprout is us.
 
-We've built Sprout together, because we want to do this together. A shared journey with a shared responsibility. 
+We've built Sprout together, because we want to do this together. A shared journey with a shared responsibility.
 What we do and what Sprout will grow into - is up to us. That means taking ownership, speaking up and leading by example.
-The initiative is yours to take. If something needs fixing - fix it. If something could be done better - show us how. 
+The initiative is yours to take. If something needs fixing - fix it. If something could be done better - show us how.
 If something is awesome - say it, celebrate it!
 
-## We grow slow
-> Rewrite - we dare to try stuff, not afraid of failure but expand and grow with care using our "gut-feeling"
+## Growing by trying and sharing
 
-Sprout is founded by a group of people that wants to work together. It's a tight group, where we trust and appreciate each other. We want to grow - but slowly. We're careful about how we expand and in what direction we choose to grow.
-That being said - when we find that soul-mate-superstar,
-we’ll give them the best welcome they’ve ever seen!
+Sprout was founded by a group of people that wants to work together, to make use of our chemistry. But Sprout today is not tour final form. We want to expand our capabilities with new people, ideas and perspectives. That's where you come in, evolving Sprout into an even better version.
+
+Our aim is to renew ourselves, trying new things. This means we'll fail sometimes, and that's okay! Failure means learning - and that's how we improve, as individuals and as an organisation. We share experiences, setbacks and triumphs to push and inspire eachother to move forward.
+
+In whatever way we grow or change, we'll keep our core values close and use our "gut-feeling" to guide our way.
 
 ## Commitment is doing that extra thing
 
@@ -70,7 +85,3 @@ If that means stepping out of our role, comfort zone or the box completely - so 
 
 And above all else - we’re nice people.
 We pay it forward, going a little bit out of our way to bring joy to someone else.
-
-## Business models and opportunities
-
-> Add stuff about what we can offer, both to customers, partners and employees
