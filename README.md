@@ -55,6 +55,7 @@ The initiative is yours to take. If something needs fixing - fix it. If somethin
 If something is awesome - say it, celebrate it!
 
 ## We grow slow
+> Rewrite - we dare to try stuff, not afraid of failure but expand and grow with care using our "gut-feeling"
 
 Sprout is founded by a group of people that wants to work together. It's a tight group, where we trust and appreciate each other. We want to grow - but slowly. We're careful about how we expand and in what direction we choose to grow.
 That being said - when we find that soul-mate-superstar,
@@ -72,4 +73,4 @@ We pay it forward, going a little bit out of our way to bring joy to someone els
 
 ## Business models and opportunities
 
-...
+> Add stuff about what we can offer, both to customers, partners and employees
