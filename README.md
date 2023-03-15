@@ -28,13 +28,13 @@ Sprout is about leveraging passions and interests of different people, ideas and
 
 ## Future in the shape of you
 
-At Sprout, we value your ideas, initiatives and dreams. We want you to dream, dream **BIG**! We'll help you, in any way that we can, to achieve those goals and aspirations.
+At Sprout, we value your ideas, initiatives and dreams. We want you to dream, dream **BIG**!
+We'll help you, in any way that we can, to achieve those goals and aspirations.
 
-For you as an employeee, that means having the freedom to try new things, to explore and to be creative. It means having the final say in how you spend your days. It's up to you.
+For you as an _employeee_, that means having the freedom to try new things, to explore and to be creative.
+It means having the final say in how you spend your days. It's up to you. Maybe you have an idea for _that_ perfect app, want to host a hackathon for _that_ good cause or maybe you dream about being involved in _that_ project. At Sprout - the future is yours to shape. We want to be part of your journey.
 
-Maybe you have an idea for _that_ perfect app, want to host a hackathon for _that_ good cause or maybe you dream about being involved in _that_ project. At Sprout - the future is yours to shape. We want to be part of your journey.
-
-For you as a partner, it means having the full power of Sprout at your side, in business ventures, projects or product development efforts. With an experienced set of professionals to back you, no dream is to big! When we join forces, anything is possible.
+For you as a _partner_, it means having the full power of Sprout at your side, in business ventures, projects or product development efforts. With an experienced set of professionals to back you, no dream is to big! When we join forces, anything is possible.
 
 ## Life balance - the Sprout way
 
@@ -51,7 +51,6 @@ With great knowledge and experience comes great responsibility. For us, it means
 
 Hiring us is not like hiring anyone else.
 We hit the ground running and make an impact from day one.
-
 We bring energy, positivity and professionalism to any project.
 And if you hire a whole Sprout team - watch that energy 💥
 
@@ -61,14 +60,14 @@ We don't spend time labelling your style of work. Call it what you may, the surr
 
 Actually, we don't think the _where_ is that important. We are all sensible people. Lets focus on _what_ we do instead.
 
-## We are Sprout - Sprout is us.
+## We are Sprout. Sprout is us.
 
 We've built Sprout together, because we want to do this together. A shared journey with a shared responsibility.
 What we do and what Sprout will grow into - is up to us. That means taking ownership, speaking up and leading by example.
 The initiative is yours to take. If something needs fixing - fix it. If something could be done better - show us how.
 If something is awesome - say it, celebrate it!
 
-## Growing by trying and sharing
+## Gut-feeling-guided growth
 
 Sprout was founded by a group of people that wants to work together, to make use of our chemistry. But Sprout today is not tour final form. We want to expand our capabilities with new people, ideas and perspectives. That's where you come in, evolving Sprout into an even better version.
 
