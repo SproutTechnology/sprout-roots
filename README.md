@@ -24,14 +24,14 @@ Sprout is a collaborative, creative platform that builds upon that insight.
 
 Imagine working with people exactly like yourself. The same interests, the same strengths and weaknesses, the same background and life situation. Needless to say - those work days would get old quick. That is not what Sprout is about. Differences and diversity means potential.
 
-Sprout is about leveraging passions and interests of different people, ideas and organisations into something great.
+Sprout is about leveraging passions and interests of different people, ideas and organizations into something great.
 
 ## Future in the shape of you
 
 At Sprout, we value your ideas, initiatives and dreams. We want you to dream, dream **BIG**!
 We'll help you, in any way that we can, to achieve those goals and aspirations.
 
-For you as an _employeee_, that means having the freedom to try new things, to explore and to be creative.
+For you as an _employee_, that means having the freedom to try new things, to explore and to be creative.
 It means having the final say in how you spend your days. It's up to you. Maybe you have an idea for _that_ perfect app, want to host a hackathon for _that_ good cause or maybe you dream about being involved in _that_ project. At Sprout - the future is yours to shape. We want to be part of your journey.
 
 For you as a _partner_, it means having the full power of Sprout at your side, in business ventures, projects or product development efforts. With an experienced set of professionals to back you, no dream is to big! When we join forces, anything is possible.
@@ -69,11 +69,11 @@ If something is awesome - say it, celebrate it!
 
 ## Gut-feeling-guided growth
 
-Sprout was founded by a group of people that wants to work together, to make use of our chemistry. But Sprout today is not tour final form. We want to expand our capabilities with new people, ideas and perspectives. That's where you come in, evolving Sprout into an even better version.
+Sprout was founded by a group of people that wants to work together, to make use of our chemistry. But Sprout today is not our final form. We want to expand our capabilities with new people, ideas and perspectives. That's where you come in, evolving Sprout into an even better version.
 
-Our aim is to renew ourselves, trying new things. This means we'll fail sometimes, and that's okay! Failure means learning - and that's how we improve, as individuals and as an organisation. We share experiences, setbacks and triumphs to push and inspire eachother to move forward.
+Our aim is to renew ourselves, trying new things. This means we'll fail sometimes, and that's okay! Failure means learning - and that's how we improve, as individuals and as an organization. We share experiences, setbacks and triumphs to push and inspire each other to move forward.
 
-In whatever way we grow or change, we'll keep our core values close and use our "gut-feeling" to guide our way.
+In whatever way we grow or change, we'll keep our **roots** close and use our "gut-feeling" to guide our way. If something doesn't check all of our boxes - we'll pass. But if it feels right, we'll go for it!
 
 ## Commitment is doing that extra thing
 
